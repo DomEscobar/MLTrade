@@ -1,4 +1,4 @@
-##Gekko bot + convnetjs (AI) + Brute force option
+## Gekko bot + convnetjs (AI) + Brute force option
 Fork of Gekko Bot
 
 npm install -> node gekko --ui
